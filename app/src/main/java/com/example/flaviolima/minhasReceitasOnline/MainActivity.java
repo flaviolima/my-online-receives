@@ -82,11 +82,11 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_food) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.nav_add) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_category) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.nav_shop) {
 
         } else if (id == R.id.nav_share) {
 
